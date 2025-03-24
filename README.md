@@ -5,6 +5,7 @@
 依赖：网络请求 - requests，验证码识别 - ddddocr，加解密 - pycryptodome
 
 感谢：[@Golevka2001](https://github.com/Golevka2001) [@surgery7630](https://github.com/surgery7630) [@DgntYang](https://github.com/DgntYang) [@GeeeekExplorer](https://github.com/GeeeekExplorer)
+![image](https://github.com/user-attachments/assets/2ce2a237-dfba-42ad-beab-10cd2f391690)
 
 ## 安装依赖
 
